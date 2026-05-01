@@ -1,44 +1,34 @@
 ## UCONN Cloud Computing Lab
-- *Research Assistant* | Aug'25 - Aug'25
-- ![logo512](../assets/logo512.png)
+- *Research Assistant* | Aug'24 - Aug'25
+- ![logo](https://upload.wikimedia.org/wikipedia/en/b/b0/Connecticut_Huskies_logo.svg)
 - Tags: Academics
 - Badges:
-  - AWS [yellow]
+- AWS [yellow]
 - List Items:
-  - Collaborating 5+ hours weekly with PH.D Students on Serverless Computing while analyzing 100+ research paper
-  - Installed and operated on machines with Unix to deploy local clusters and organize nodes
-  - Practiced containerization and orchestration with Kubernetes and Docker.
-  
-## Yangtze Memory co.
-- *Seasonal Intern* | Dec'21 - Aug'2022
-- ![logo512](../assets/logo512.png)
-- Tags: Work
-- Badges:
-  - MySQL [blue]
-- List Items:
-  - Extracted text boxes and element blocks into .XML with Python scripts. sorted 500+ presentation files into text.
-  - Uploaded Data into MySQL while creating a navigation based on data visualized thru word clouds.
-  - Merged 4 departments’ training and tutorials to create a streamlined universal library that allowed ease of acces
+- Collaborating 5+ hours weekly with Ph.D students on serverless computing while analyzing 100+ research papers
+- Installed and operated Unix machines to deploy local clusters and organize nodes
+- Practiced containerization and orchestration using Kubernetes and Docker
 
-## KQM.gg - Game Guides
+
+## KQM.gg – Game Guides
 - *Website Developer* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
+- ![logo](https://pbs.twimg.com/profile_images/1444273893628211200/gDc2vAds.jpg)
 - Tags: Digital
 - Badges:
-  - Tailwind [red]
+- Tailwind [red]
 - List Items:
-  - Participated in a company wide rebrand. FRENS Stack (Figma, React, Express.js, Next.js, Supabase
-  - Created preview components and article tooltips with Tailwind and linking databases with upabase
-  - Co-writing monthly pieces with Over 1 million monthly visits and worked with 100+ users worldwide
+- Participated in a company-wide rebrand using the FRENS stack (Figma, React, Express, Next.js, Supabase)
+- Built preview components and article tooltips with Tailwind and Supabase
+- Co-wrote monthly articles reaching over 1 million visits globally
 
 ## Knack
 - *Peer Tutor* | Dec'23 - Dec'24
-- ![logo512](../assets/logo512.png)
+- ![logo](https://play-lh.googleusercontent.com/fzoCCcDrtT3NGGTFBwPYBdm3UBRYGXbueXQB3qtO5h6_LGp43Y4ea3nrEAfeIsvj4Xs)
 - Tags: Work
 - Badges:
-  - Python [Green] 
-  - Jamboard [White] 
+- Python [green]
+- Jamboard [white]
 - List Items:
-  - Tutored First Year Students on calculus 1, 2, and programming classes involving python over 2 semesters
-  - Helped over 20 individuals excel, with each spanning multiple hours with many follow up sessions
-  - Practiced communication skills using analogies and metaphors to help students understand challenging concepts
+- Tutored first-year students in Calculus I & II and introductory Python
+- Supported 20+ students across multiple multi-hour sessions
+- Used analogies and metaphors to clarify complex concepts

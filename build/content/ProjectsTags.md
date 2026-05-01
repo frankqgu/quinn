@@ -1,3 +1,1 @@
-Web Devs
 Scripts
-Softwares
