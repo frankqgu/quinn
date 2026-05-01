@@ -1,3 +1,0 @@
-Academics
-Work
-Digital
