@@ -1,23 +1,7 @@
 ## Web Review Scraper
-Description
-- Tags: Category 1
+Worked on during my time in China, extracted review from JD.com for a word cloud
+- Tags: Scripts
 - Badges:
-  - Badge [blue]
+- Script [white]
 - Buttons:
-  - Link [https://example.com]
-
-## WAFS, Digital hall Pass 
-Description
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
-
-## Project 3
-Description
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+- Link [https://example.com]

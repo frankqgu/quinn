@@ -9,7 +9,6 @@
 - Installed and operated Unix machines to deploy local clusters and organize nodes
 - Practiced containerization and orchestration using Kubernetes and Docker
 
-
 ## KQM.gg – Game Guides
 - *Website Developer* | Mar'23 - Apr'23
 - ![logo](https://pbs.twimg.com/profile_images/1444273893628211200/gDc2vAds.jpg)
